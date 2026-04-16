@@ -58,7 +58,7 @@ p {
 
 article {
     background-color: white;
-    padding: 15px 45px 30px 45px; 
+    padding: 0px auto 0px auto; 
     width: 400px;
     margin: 10px; 
 }
